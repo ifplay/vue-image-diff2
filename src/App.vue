@@ -820,7 +820,7 @@ div.layer > div, span {
 }
 </style>
 
-<style>
+<style scoped>
 #app {
   position: relative;
   height: 100%;
